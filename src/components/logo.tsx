@@ -1,5 +1,5 @@
 export const Logo = () => {
     return (
-        <div className="text-xl">Loja <spa className="font-bold">ZAP</spa></div>
+        <div className="text-xl">Loja <span className="font-bold">ZAP</span></div>
     )
 }
